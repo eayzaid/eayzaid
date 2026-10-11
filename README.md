@@ -41,7 +41,7 @@
       <p>🤝 <b>What I am looking for now:</b> Actively seeking a <b>16-week internship starting from May 2027</b> in AI and Software Engineering (On-site across France / EU).</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/afterburner.png" width="300" alt="Engineering In Motion" />
+      <img src="assets/fire_writing.gif" width="300" alt="Engineering In Motion" />
     </td>
   </tr>
 </table>
