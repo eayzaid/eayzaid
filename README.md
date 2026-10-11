@@ -98,6 +98,8 @@
 ### 📊 GitHub Activities and Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eayzaid&hide_rank=true&include_all_commits=true&theme=tokyonight" alt="GitHub Contribution Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eayzaid&layout=pie&theme=tokyonight" alt="Top Languages Pie Chart" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=eayzaid&hide_rank=true&include_all_commits=true&theme=tokyonight" alt="GitHub Contribution Statistics" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eayzaid&layout=pie&theme=tokyonight" alt="Top Languages Pie Chart" />
 </p>
+
